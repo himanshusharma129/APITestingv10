@@ -1,0 +1,25 @@
+{
+	"info": {
+		"_postman_id": "5bdf0bf8-692c-49d6-8a3b-7fd108cd78f9",
+		"name": "For PAI GIT",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_uid": "919502-5bdf0bf8-692c-49d6-8a3b-7fd108cd78f9"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"id": "2b9dd3e8-0530-4f36-a165-b5380b3accb5",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	]
+}
