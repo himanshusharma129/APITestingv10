@@ -1,0 +1,116 @@
+{
+	"info": {
+		"_postman_id": "67f9fe31-dfcf-4083-96d0-3d325082efea",
+		"name": "WithENVs",
+		"description": "Adding a rdes ad rto tjaiomsd\n\n<img src=\"https://content.pstmn-beta.io/e7798791-7028-4d62-b6ab-12247b972bfc/MTY0OTM1ODk2MzEwNC5qcGc=\" alt=\"\">",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_uid": "756821-67f9fe31-dfcf-4083-96d0-3d325082efea"
+	},
+	"item": [
+		{
+			"name": "Have dinner",
+			"id": "f110f52f-1481-483e-8434-5d6e3e551050",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/dinner",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"dinner"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Have dinner Copy",
+			"id": "4b82b79e-99dc-4cc5-b056-6730d635f4b5",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/dinner",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"dinner"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Have dinner Copy",
+			"id": "ac05e25e-3d17-4170-8609-5c23a6c1c6ee",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/dinner",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"dinner"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Have dinner Copy",
+			"id": "1d39f0df-7647-4481-80a6-8a825ed18183",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/dinner",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"dinner"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Have dinner Copy",
+			"id": "84f8ca6e-5187-455b-88b2-f44d7cd54559",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/dinner",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"dinner"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
