@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "805d7ab3-2c50-4570-932e-a3b5d29fa05e",
+		"name": "aaawwweeerrrttgfsss",
+		"description": "[![Run in Postman](https://run-beta.pstmn.io/button.svg)](https://god.gw.postman-beta.com/run-collection/793845-729e54c7-d13d-4716-81f1-83168ca3cef3?action=collection%2Ffork&collection-url=entityId%3D793845-729e54c7-d13d-4716-81f1-83168ca3cef3%26entityType%3Dcollection%26workspaceId%3D1c502372-bdb7-41b7-b201-9b9d23ac59a2#?env%5Bjuju%5D=W10=)",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_uid": "756821-805d7ab3-2c50-4570-932e-a3b5d29fa05e"
+	},
+	"item": [
+		{
+			"name": "With ENV PUBLIC coll",
+			"id": "1d929136-51f8-40cb-89b3-e4fc10321bd0",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	]
+}
